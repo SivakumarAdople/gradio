@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'gradio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC7ADCA0A20C40F5B4D70AE2C373A25B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_385C816A30234812A7D25BB93D923D80 }}
